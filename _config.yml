@@ -1,2 +1,6 @@
-theme: jekyll-theme-cayman
+title: "Applied Production Analysis"
+description: "Credit - Dr. Vipin V"
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
 markdown: kramdown
